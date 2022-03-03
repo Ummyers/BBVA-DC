@@ -1,1 +1,3 @@
 Mensaje: Al final entraste a trabajar
+
+Git configurado en VSC? 
